@@ -14,4 +14,4 @@ Where: TBD
 
 | Date | Speaker | Paper |
 |------|---------|-------|
-|      |         |       |
+|First week|Sumuk Shashidhar|[Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)|
