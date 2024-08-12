@@ -3,6 +3,7 @@
 Presenters: please sign up by adding a row for your presentation. Once your presentation materials are ready, please put your slides in the corresponding folder, or send them to Ishika Agarwal (ishikaa2@illinois.edu).
 
 ## Vote for/Add Papers
+Please use your Illinois Google account to access this!
 https://docs.google.com/spreadsheets/d/1IvUl4gJRwuS-KXxemjQvuXttRm1j1KxdfoJ7AW64m4U/edit?usp=sharing
 
 # Fall 2024
