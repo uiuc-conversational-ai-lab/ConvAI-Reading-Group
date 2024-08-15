@@ -8,11 +8,11 @@ https://docs.google.com/spreadsheets/d/1IvUl4gJRwuS-KXxemjQvuXttRm1j1KxdfoJ7AW64
 
 # Fall 2024
 
-When: TBD
+When: Thursdays at 3pm
 
 Where: TBD
 
 
 | Date | Speaker | Paper |
 |------|---------|-------|
-|First week|Sumuk Shashidhar|[Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)|
+|08/29/24|Sumuk Shashidhar|[Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)|
