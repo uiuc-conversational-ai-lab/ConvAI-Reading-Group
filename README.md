@@ -17,7 +17,7 @@ Where: Siebel 3401
 |------|---------|-------|
 |08/29/24|Sumuk Shashidhar|[Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)|
 |09/05/24|Abhinav Chinta|[When is Tree Search Useful for LLM Planning? It Depends on the Discriminator](https://arxiv.org/pdf/2402.10890)|
-|09/12/24|Janvijay||
+|09/12/24|Janvijay Singh||
 |09/19/24|Emre Can Acikgoz||
 |09/26/24|Ishika Agarwal||
 |10/03/24|||
