@@ -10,7 +10,7 @@ https://docs.google.com/spreadsheets/d/1IvUl4gJRwuS-KXxemjQvuXttRm1j1KxdfoJ7AW64
 
 When: Thursdays at 3pm
 
-Where: TBD
+Where: Siebel 3401
 
 
 | Date | Speaker | Paper |
