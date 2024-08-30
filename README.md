@@ -20,7 +20,7 @@ Where: Siebel 3401
 |09/12/24|Janvijay Singh||
 |09/19/24|Emre Can Acikgoz||
 |09/26/24|Ishika Agarwal||
-|10/03/24|Sagnik Mukherjee|Something on model editing, probably task arithmetic and some follow up works|
+|10/03/24|Sagnik Mukherjee|Something on model editing, probably [task arithmetic](https://arxiv.org/abs/2212.04089) and some follow up works|
 |10/10/24|||
 |10/17/24|||
 |10/24/24|||
