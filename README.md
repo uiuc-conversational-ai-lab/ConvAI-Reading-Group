@@ -19,10 +19,10 @@ Where: Siebel 3401
 |09/05/24|Abhinav Chinta|[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)|
 |09/12/24|Janvijay Singh||
 |09/19/24|Emre Can Acikgoz||
-|09/26/24|Ishika Agarwal||
-|10/03/24|Sagnik Mukherjee|Something on model editing, probably [task arithmetic](https://arxiv.org/abs/2212.04089) and some follow up works|
-|10/10/24|Nimet Beyza Bozdag||
-|10/17/24|||
+|09/26/24|||
+|10/03/24|Independent Study Project Overviews||
+|10/10/24|Ishika Agarwal|[Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging](https://arxiv.org/abs/2406.11709)|
+|10/17/24|Sagnik Mukherjee|Something on model editing, probably [task arithmetic](https://arxiv.org/abs/2212.04089) and some follow up works|
 |10/24/24|||
 |10/31/24|||
 |11/07/24|||
