@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/1IvUl4gJRwuS-KXxemjQvuXttRm1j1KxdfoJ7AW64
 
 # Fall 2024
 
-When: Thursdays at 3pm
+When: Thursdays at 3:30pm
 
 Where: Siebel 3401
 
@@ -23,7 +23,7 @@ Where: Siebel 3401
 |10/03/24|Independent Study Project Overviews||
 |10/10/24|Ishika Agarwal|[Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging](https://arxiv.org/abs/2406.11709)|
 |10/17/24|Sagnik Mukherjee|Something on model editing, probably [task arithmetic](https://arxiv.org/abs/2212.04089) and some follow up works|
-|10/24/24|||
+|10/24/24|Nimet Beyza Bozdag|[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://aclanthology.org/2024.acl-long.747.pdf)|
 |10/31/24|Shuhaib Mehri||
 |11/07/24|||
 |11/14/24|||
