@@ -24,7 +24,7 @@ Where: Siebel 3401
 |10/10/24|Ishika Agarwal|[Instruct, Not Assist: LLM-based Multi-Turn Planning and Hierarchical Questioning for Socratic Code Debugging](https://arxiv.org/abs/2406.11709)|
 |10/17/24|Sagnik Mukherjee|Something on model editing, probably [task arithmetic](https://arxiv.org/abs/2212.04089) and some follow up works|
 |10/24/24|||
-|10/31/24|||
+|10/31/24|Shuhaib Mehri||
 |11/07/24|||
 |11/14/24|||
 |11/21/24|||
